@@ -1,0 +1,36 @@
+body{
+    background-image:
+      url('https://pbs.twimg.com/media/EUiYD-lWoAAF9mO.jpg:large')
+  }
+  
+  
+  img{
+    width: 100px;
+  }
+  h1{
+  text-align: center;
+  }
+  
+  table, th, td {
+  border: 6px solid black;
+  }
+  
+  table {
+  border-collapse: collapse;
+  margin: auto;
+  }
+  
+  th, td{
+  padding: 5px;
+  text-align: center;
+  width: 150px;
+  }
+  
+  th{
+    font-size: 25px;
+    
+  }
+  td{
+    font-size: 15px
+  }
+  
